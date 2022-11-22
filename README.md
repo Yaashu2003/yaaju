@@ -1,5 +1,5 @@
-# yaaju
-website blocker 
+
+#website blocker 
 THIS IS ONLY APPLICABLE FOR WINDOWS (NOT MAC)
 
 input  -  enter dates in line 12 and 13 (date of blocking and unlocking)
