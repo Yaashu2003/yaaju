@@ -1,0 +1,2 @@
+# yaaju
+website blocker  
