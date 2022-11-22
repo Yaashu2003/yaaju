@@ -1,5 +1,5 @@
 
-#website blocker 
+# website blocker 
 THIS IS ONLY APPLICABLE FOR WINDOWS (NOT MAC)
 
 input  -  enter dates in line 12 and 13 (date of blocking and unlocking)
@@ -11,4 +11,5 @@ input  -  enter dates in line 12 and 13 (date of blocking and unlocking)
 3. U can enter the website that needed to be blocked in line - 9
    
 input -  copy the URL of the website u need.
+                                                           
  
